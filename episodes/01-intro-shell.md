@@ -33,7 +33,11 @@ The shell is one of the most productive programming environments ever created. O
 
 In this session we will introduce task automation by looking at how data can be manipulated, counted, and mined using the shell. The session will cover a small number of basic commands, which will constitute building blocks upon which more complex commands can be constructed to fit your data or project. Even if you do not do your own programming or your work currently does not involve the command line, knowing some basics about the shell can be useful.
 
-*Note to Lesson Instructor: Consider providing an example here of how you've used the Unix shell to solve a problem in the last week or month*
+:::::::::::::::::::::::::::::::::::::::  instructor
+
+Consider providing an example here of how you've used the Unix shell to solve a problem in your own work.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Where is my shell?
 
